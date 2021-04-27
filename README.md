@@ -9,7 +9,7 @@
   <strong><a href="https://juejin.cn/user/1390225439328023">掘金</a></strong>  |
   <strong><a href="https://zhangyonghui.top/about/">About</a></strong>  
 </p>
-<a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
+<a href="https://zhangyonghui.top"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/zard999/count.svg" /></a>
 
 ##  [Welcome To Hello Alili](https://zhangyonghui.top)
 <a href="https://zhangyonghui.top"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
