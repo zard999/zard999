@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong><a href="https://zhangyonghui.top">博客</a></strong> |
-  <strong><a href="https://zhangyonghui.top">知乎</a></strong> |
+  <strong><a href="https://www.zhihu.com/people/tong-cheng-li-29">知乎</a></strong> |
   <strong><a href="https://juejin.cn/user/1390225439328023">掘金</a></strong>  |
   <strong><a href="https://zhangyonghui.top/about/">About</a></strong>  
 </p>
