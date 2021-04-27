@@ -6,7 +6,7 @@
 <p align="center">
   <strong><a href="https://zhangyonghui.top">博客</a></strong> |
   <strong><a href="https://zhangyonghui.top">知乎</a></strong> |
-  <strong><a href="https://zhangyonghui.top">掘金</a></strong>  |
+  <strong><a href="https://juejin.cn/user/1390225439328023">掘金</a></strong>  |
   <strong><a href="https://zhangyonghui.top/about/">About</a></strong>  
 </p>
 <a href="https://alili.tech"><p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
@@ -74,4 +74,4 @@
 
 ****
 ## 微信公众号
-![图 1](https://incomparable9527.coding.net/p/imageBed/d/imageBed/git/raw/master/e73110bce06db5cc2c08cf51551bd6093d5309560ac46ae02695959c80abec4e.png?tt=333)  
+![图 1]()  
