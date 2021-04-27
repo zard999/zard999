@@ -68,8 +68,8 @@
 ## 𝗦𝘁𝗮𝘁𝘀
 
 <p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=Fantasy9527&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy9527">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=zard999&show_icons=true&include_all_commits=true">
+<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=zard999">
 </p>
 
 ****
