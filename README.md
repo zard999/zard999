@@ -13,16 +13,6 @@
 
 ##  [Welcome To Hello Alili](https://zhangyonghui.top)
 <a href="https://zhangyonghui.top"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
-- 👨🏻‍💻  [微前端系列](https://zhangyonghui.top)
-- 👩🏻‍💻  [Taro系列](https://zhangyonghui.top)
-- 👨🏻‍💻  [树莓派系列](https://zhangyonghui.top)
-- 👩🏻‍💻  [Nodejs系列](https://zhangyonghui.top)
-- 👨🏻‍💻  [持续集成系列](https://zhangyonghui.top)
-- 👩🏻‍💻  [数学笔记](https://zhangyonghui.top)
-- 👨🏻‍💻  [Puppeteer系列](https://zhangyonghui.top)
-- 👩🏻‍💻  [Javascript相关](https://zhangyonghui.top)
-- 👨🏻‍💻  [Mac系列](https://zhangyonghui.top)
-- 👩🏻‍💻  [Angular相关](https://zhangyonghui.top)
 
 
 
@@ -64,13 +54,6 @@
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
 
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-<p align="left">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api?username=Fantasy9527&show_icons=true&include_all_commits=true">
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantasy9527">
-</p>
 
 ****
 ## 微信公众号
