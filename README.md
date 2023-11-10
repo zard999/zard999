@@ -1,10 +1,9 @@
 
-<h1 align="center">Hi, I'm <a href="https://www.pointfree.cn">{H.U.I}</a>!</h1>
-<h3 align="center">👋 哈罗，我叫 Zard999（Zard是我最喜欢的女星 🤣），目前工作生活在[深圳🔥]，是一名前端工程师 👨🏻‍💻（JavaScript ☕️）</h1>
-<h3 align="center">❤️ 我喜欢：[跑步] 🏃🏻，[骑行] 🚴🏻，读书 📖，追剧 🎬</h1>
-<h3 align="center">💬 你可以和我讨论：运动 🏃🏻‍♂️，电影 📺，数码产品 📱，读书 📚</h1>
-<h3 align="center">📮 我的邮箱：[1874861374@qq.com](mailto:1874861374@qq.com)</h1>
-<h3 align="center">🏃 我的跑步记录：[https://run.pointfree.cn](https://run.pointfree.cn/)</h1>
+- 👋 哈罗，我叫 Zard999（Zard是我最喜欢的女星 🤣），目前工作生活在[深圳🔥]，是一名前端工程师 👨🏻‍💻（JavaScript ☕️）
+- ❤️ 我喜欢：[跑步] 🏃🏻，[骑行] 🚴🏻，读书 📖，追剧 🎬
+- 💬 你可以和我讨论：运动 🏃🏻‍♂️，电影 📺，数码产品 📱，读书 📚
+- 📮 我的邮箱：[1874861374@qq.com](mailto:1874861374@qq.com)
+- 🏃 我的跑步记录：[https://run.pointfree.cn](https://run.pointfree.cn/)
 
 <p align="center">
   <strong><a href="https://wwww.pointfree.cn">博客</a></strong> |
